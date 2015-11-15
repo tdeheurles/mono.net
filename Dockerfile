@@ -1,4 +1,4 @@
-FROM         ubuntu:14.04.3
+FROM         ubuntu:14.04.2
 MAINTAINER   Thibault Deheurles <tdeheurles@gmail.com>
 
 RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF   && \
